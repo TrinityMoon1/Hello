@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trinity.Moon1
+- 👋 Hi, I’m @TrinityMoon1
 - 👀 I’m interested in R programming 
 - 🌱 I’m currently learning the skills needed to become a data analyst 
 
